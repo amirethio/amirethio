@@ -50,24 +50,24 @@ console.log(`Welcome to ${developer.name}'s GitHub!`);
 ### 📂 Featured Projects
 ### 📂 Featured Projects
 
-#### 🔹 [Amazon Clone](https://github.com/amiraliyimer/amazon-clone)
+#### 🔹 [Amazon Clone](https://github.com/amirethio/amazon-clone)
 > A full-stack e-commerce platform inspired by Amazon  
 > 🔐 Firebase Auth + Real-Time DB | 🛒 Shopping Cart | 💳 Stripe Payment  
 **Tech:** React | Node.js | Firebase | Stripe  
 🌐 [Live Demo](https://amazon-clone-by-amir.netlify.app/)
 
-#### 🔹 [Netflix Clone](https://github.com/amiraliyimer/netflix-clone)
+#### 🔹 [Netflix Clone](https://github.com/amirethio/netflix-clone)
 > A modern Netflix UI replica fetching data via TMDB API  
 > 🎬 Movie previews + trailer playback via YouTube  
 **Tech:** React | Node.js | TMDB API | HTML | CSS  
 🌐 [Live Demo](https://amirethio.github.io/netflix-clone/)
 
-#### 🔹 [Evangadi Forum](https://github.com/amiraliyimer/evangadi-forum)
+#### 🔹 [Evangadi Forum](https://github.com/amirethio/evangadi-forum)
 > An interactive Q&A platform for students  
 **Tech:** React | Node.js | MySQL  
 🌐 [Live Demo](https://evangadi-tech-forum.netlify.app/)
 
-#### 🔹 [Portfolio Website](https://github.com/amiraliyimer/portfolio)
+#### 🔹 [Portfolio Website](https://github.com/amirethio/portfolio)
 > My personal portfolio built with HTML, CSS & JS showcasing my projects and skills  
 🌐 [Live Demo](https://amireth.netlify.app/)
 
