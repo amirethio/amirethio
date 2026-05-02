@@ -75,7 +75,7 @@ console.log(`Welcome to ${developer.name}'s GitHub!`);
 
 ### 🔗 Let’s Connect!
 
-- 📫 Email: **amiraliyimer@gmail.com**
+- 📫 Email: **amir.ali.next@gmail.com**
 - 🌍 Location: **Adama, Ethiopia**
 - 💼 Freelance: **Available for collaborations and projects**
 
