@@ -1,82 +1,180 @@
+<!-- Static Header (no animation, with waving hand) -->
+<h1 align="center" style="font-size:26px; font-weight:600; font-family:'Fira Code', monospace;">
+  Hi there, I'm Amir Ali 👋
+</h1>
 
-<h1 align="center">Hi 👋, I'm Amir Ali</h1>
-<h3 align="center">Full-Stack Web Developer | Passionate about building scalable and user-friendly web applications</h3>
+<!-- Animated Subheader -->
+<p align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Cloud+%26+AWS+Engineer;MERN+Stack+%7C+AI+%26+RAG+Systems" 
+    />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Cloud+%26+AWS+Engineer;MERN+Stack+%7C+AI+%26+RAG+Systems" 
+      alt="Typing SVG" 
+    />
+  </picture>
+</p>
 
 <p align="center">
-  <a href="mailto:amiraliyimer@gmail.com"><img src="https://img.shields.io/badge/email-amiraliyimer@gmail.com-red?style=flat&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/amireth"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/amirethio"><img src="https://img.shields.io/github/followers/amirethio?style=flat&logo=github" /></a>
+  <em>Building scalable web apps from Ethiopia to the world 🌍</em>
+</p>
+
+<p align="center">
+  <a href="mailto:amir.ali.next@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/amireth">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://amireth.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-00f260?style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/amirethio">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  📍 Adama, Ethiopia &nbsp;|&nbsp; 🌍 Open to Remote Worldwide &nbsp;|&nbsp; 💼 Available for Freelance and  work &nbsp; 
 </p>
 
 ---
 
-### 💡 About Me
+## 💡 About Me
 
-- 🔭 I’m a **Full-Stack Developer** based in **Adama, Ethiopia**.
-- 🎓 Currently studying at **Adama Science and Technology University**.
-- 💻 Graduate of the **Evangadi Tech Full-Stack Bootcamp**.
-- 🚀 I’m passionate about building **scalable, user-friendly web apps** that make a real impact.
-- 💬 I believe in the power of **collaboration** and **continuous learning**.
+I'm a **Full-Stack Developer** based in **Adama, Ethiopia**, currently studying at **Adama Science and Technology University**.
 
-```js
-// Passion + Practice = Success 💻❤️
-const developer = {
+- 🔭 Building **AI-powered apps** with **RAG** & AWS  
+- 🎓 Trained in **MERN** & **AWS Cloud** at **Evangadi Tech**  
+- 🚀 Focused on **scalable systems** & **clean code**  
+- 🌱 Currently diving deeper into **Kubernetes**, **Terraform**, and **system design**  
+- 💬 Value **collaboration** and **continuous learning**
+
+
+```javascript
+const amir = {
   name: "Amir Ali",
-  skills: ["Frontend", "Backend", "Full-Stack"],
-  passion: "Building elegant, useful web apps"
+  role: "Full-Stack Developer | Cloud Engineer",
+  stack: ["React", "Node.js", "AWS", "TypeScript"],
+  focus: "Scalable architecture + AI integration",
+  available: true
 };
 
-console.log(`Welcome to ${developer.name}'s GitHub!`);
+console.log(`Let's build something impactful together! 🚀`);
 ```
 
 ---
 
-## 🚀 Tech Stack
+## 🧰 Tech Stack
+
+<div align="center">
 
 ### 💻 Frontend
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+
+### 🛠️ Backend & Databases
+| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon+DynamoDB&logoColor=white) |
 |:--:|:--:|:--:|:--:|:--:|
 
-### 🛠️ Backend
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) |
-|:--:|:--:|:--:|
-
-### ⚙️ Tools & Platforms
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) | ![CLI](https://img.shields.io/badge/Command%20Line-555555?style=for-the-badge&logo=windows-terminal&logoColor=white) |
+### ☁️ Cloud & DevOps
+| ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
 |:--:|:--:|:--:|:--:|
 
----
+### 🤖 AI & Machine Learning
+| ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) | ![Amazon SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | 
+|:--:|:--:|
 
-### 📂 Featured Projects
-### 📂 Featured Projects
-
-#### 🔹 [Amazon Clone](https://github.com/amirethio/amazon-clone)
-> A full-stack e-commerce platform inspired by Amazon  
-> 🔐 Firebase Auth + Real-Time DB | 🛒 Shopping Cart | 💳 Stripe Payment  
-**Tech:** React | Node.js | Firebase | Stripe  
-🌐 [Live Demo](https://amazon-clone-by-amir.netlify.app/)
-
-#### 🔹 [Netflix Clone](https://github.com/amirethio/netflix-clone)
-> A modern Netflix UI replica fetching data via TMDB API  
-> 🎬 Movie previews + trailer playback via YouTube  
-**Tech:** React | Node.js | TMDB API | HTML | CSS  
-🌐 [Live Demo](https://amirethio.github.io/netflix-clone/)
-
-#### 🔹 [Evangadi Forum](https://github.com/amirethio/evangadi-forum)
-> An interactive Q&A platform for students  
-**Tech:** React | Node.js | MySQL  
-🌐 [Live Demo](https://evangadi-tech-forum.netlify.app/)
-
-#### 🔹 [Portfolio Website](https://github.com/amirethio/portfolio)
-> My personal portfolio built with HTML, CSS & JS showcasing my projects and skills  
-🌐 [Live Demo](https://amireth.netlify.app/)
+</div>
 
 ---
 
-### 🔗 Let’s Connect!
+## 🏅 Certifications
 
-- 📫 Email: **amir.ali.next@gmail.com**
-- 🌍 Location: **Adama, Ethiopia**
-- 💼 Freelance: **Available for collaborations and projects**
+| Certificate | Issuer | Key Skills |
+|---|---|---|
+| **Full-Stack Web Development (MERN)** | Evangadi Tech   | React, Node.js, Express, MySQL, MongoDB |
+| **AWS Cloud Training Program** | Evangadi Tech  | EC2, S3, Lambda, SageMaker, RDS, DynamoDB, IAM, VPC |
 
-> 🚀 Let's build something amazing together!
+---
+
+## 📂 Featured Projects
+
+#### 🔹 RAG-Powered Internal Knowledge Platform
+> AI-driven document retrieval system with role-based access control  
+> 🧠 RAG architecture | 🔍 Vector search | 💬 AI chatbot responses  
+
+**Tech:** React | Node.js | TypeScript | MongoDB Atlas | LangChain | Voyage-3.5 | Gemini | AWS | JWT  
+
+🔗 https://github.com/amirethio/RAG-Piper  
+
+---
+
+#### 🔹 Dr. Evangadi AI Health Diagnostic System
+> ML-powered system predicting **Diabetes, Heart Disease & Lung Cancer** using AWS SageMaker  
+> 📊 User input → AI prediction → automated reporting  
+> 🤖 Amazon Lex chatbot | 📄 PDF reports via Lambda  
+
+**Tech:** React | Node.js | AWS EC2 | SageMaker | Lambda | DynamoDB | Amazon Lex | Docker  
+
+🔗 [LinkedIn Demo](https://www.linkedin.com/posts/amireth_aws-cloudcomputing-machinelearning-activity-7355324606456467456-jjQx)
+
+---
+
+#### 🔹 Abe Garage — Car Service System
+> Full-stack garage management system with authentication and vehicle tracking  
+> 🔐 JWT Auth | 🚗 Service workflow | 🧾 REST APIs  
+
+**Tech:** React | Tailwind | Node.js | MySQL (AWS RDS) | EC2 | S3 | JWT  
+
+🔗 https://github.com/amirethio/Abe-Garage  
+
+---
+
+#### 🔹 Evangadi Forum
+> Interactive Q&A platform for students with real-time discussions  
+
+**Tech:** React | Node.js | MySQL | REST API  
+
+🔗 https://github.com/amirethio/evangadi-forum  
+
+---
+
+#### 🔹 Portfolio Website
+> Personal portfolio showcasing projects and skills  
+
+**Tech:** HTML | CSS | JavaScript  
+
+🌐 Live: https://amireth.netlify.app/  
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:amir.ali.next@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/amireth">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://amireth.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-00f260?style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  📍 Adama, Ethiopia &nbsp;|&nbsp; 🌍 Open to Remote Worldwide &nbsp;|&nbsp; 💼 Available for Freelance & Full-Time &nbsp;
+</p>
+
+---
+
+<p align="center">
+  <em>"I don't just build. I understand why it works, from embedding logic to secure cloud architecture."</em>
+</p>
+
+<p align="center">
+  ⭐ <strong>If my work resonates with you, consider starring a repository!</strong>
+</p>
