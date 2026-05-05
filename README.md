@@ -38,14 +38,14 @@
 </p>
 
 <p align="center">
-  📍 Adama, Ethiopia &nbsp;|&nbsp; 🌍 Open to Remote Worldwide &nbsp;|&nbsp; 💼 Available for Freelance and  work &nbsp; 
+🌍 Open to Remote Worldwide &nbsp;|&nbsp; 💼 Available for Freelance and  work &nbsp; 
 </p>
 
 ---
 
 ## 💡 About Me
 
-I'm a **Full-Stack Developer** based in **Adama, Ethiopia**, currently studying at **Adama Science and Technology University**.
+I'm a **Full-Stack Developer** based in **Ethiopia**, currently studying at **Adama Science and Technology University**.
 
 - 🔭 Building **AI-powered apps** with **RAG** & AWS  
 - 🎓 Trained in **MERN** & **AWS Cloud** at **Evangadi Tech**  
@@ -166,8 +166,7 @@ console.log(`Let's build something impactful together! 🚀`);
   </a>
 </p>
 
-<p align="center">
-  📍 Adama, Ethiopia &nbsp;|&nbsp; 🌍 Open to Remote Worldwide &nbsp;|&nbsp; 💼 Available for Freelance & Full-Time &nbsp;
+<p align="center">🌍 Open to Remote Worldwide &nbsp;|&nbsp; 💼 Available for Freelance & Full-Time &nbsp;
 </p>
 
 ---
