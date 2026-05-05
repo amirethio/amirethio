@@ -8,10 +8,10 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Cloud+%26+AWS+Engineer" 
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Cloud+%26+AWS" 
     />
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Cloud+%26+AWS+Engineer" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Cloud+%26+AWS" 
       alt="Typing SVG" 
     />
   </picture>
