@@ -8,14 +8,15 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Cloud+%26+AWS+Engineer;MERN+Stack+%7C+AI+%26+RAG+Systems" 
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Cloud+%26+AWS+Engineer" 
     />
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Cloud+%26+AWS+Engineer;MERN+Stack+%7C+AI+%26+RAG+Systems" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Cloud+%26+AWS+Engineer" 
       alt="Typing SVG" 
     />
   </picture>
 </p>
+
 
 <p align="center">
   <em>Building scalable web apps from Ethiopia to the world 🌍</em>
