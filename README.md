@@ -121,6 +121,7 @@ console.log(`Let's build something impactful together! 🚀`);
 **Tech:** React | Node.js | AWS EC2 | SageMaker | Lambda | DynamoDB | Amazon Lex | Docker  
 
 🔗 [LinkedIn Demo](https://www.linkedin.com/posts/amireth_aws-cloudcomputing-machinelearning-activity-7355324606456467456-jjQx)
+🔗 https://github.com/amirethio/Dr-Evangadi
 
 ---
 
